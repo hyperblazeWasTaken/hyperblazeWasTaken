@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hyperblazeWasTaken
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on interesting starup projects
+- 📫 How to reach me timikalo7 on insta
